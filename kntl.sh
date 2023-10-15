@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Daftar URL API yang akan diakses
-api_urls=("https://api.example.com/data1" "https://api.example.com/data2" "https://api.example.com/data3")
+api_urls=("http://178.128.210.78/api?key=fengzzt&host=https://cerdig.com&port=443&time=120&method=BROWSER")
 
 while true
 do
